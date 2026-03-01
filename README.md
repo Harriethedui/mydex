@@ -2,7 +2,6 @@
 
 [![Live Site](https://img.shields.io/badge/Live_Site-Vercel-green?style=flat-square)](https://mydex-seven.vercel.app)
 [![Preview](https://img.shields.io/badge/Preview-Latest_Deploy-blue?style=flat-square)](https://mydex-seven.vercel.app)
-Video tutorial: [Watch on YouTube](https://youtu.be/DxhU5wpNu9o?si=2BjQ4SWRPwDWEMac)
 
 
 ---
